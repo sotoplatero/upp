@@ -3,6 +3,8 @@ owner: sotoplatero # Your GitHub organization or username, where this repository
 repo: upp # The name of this repository
 
 sites:
+  - name: Repiblic Havas
+    url: https://republicahavas.com/
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
