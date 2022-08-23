@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 275,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 275,
+    "time": 459,
+    "timeDay": 459,
+    "timeWeek": 459,
+    "timeMonth": 459,
+    "timeYear": 459,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 784,
-    "timeDay": 784,
-    "timeWeek": 784,
-    "timeMonth": 784,
-    "timeYear": 784,
+    "time": 727,
+    "timeDay": 727,
+    "timeWeek": 727,
+    "timeMonth": 727,
+    "timeYear": 727,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test",
+    "url": "m.erikmartel.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "test",
+    "status": "down",
+    "uptime": "12.66%",
+    "uptimeDay": "12.66%",
+    "uptimeWeek": "12.66%",
+    "uptimeMonth": "12.66%",
+    "uptimeYear": "12.66%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-08-23": 0
+    }
   }
 ]
