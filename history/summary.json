@@ -11,9 +11,9 @@
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.52%",
     "time": 455,
-    "timeDay": 212,
-    "timeWeek": 372,
-    "timeMonth": 416,
+    "timeDay": 356,
+    "timeWeek": 388,
+    "timeMonth": 419,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2023-01-02": 353,
@@ -23,5 +23,41 @@
       "2022-10-08": 174,
       "2022-10-07": 8
     }
+  },
+  {
+    "name": "2200 Brickell",
+    "url": "2200brickell.com",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "2200-brickell",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 352,
+    "timeDay": 352,
+    "timeWeek": 352,
+    "timeMonth": 352,
+    "timeYear": 352,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Loudlive",
+    "url": "loudlive.com",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "loudlive",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 555,
+    "timeDay": 555,
+    "timeWeek": 555,
+    "timeMonth": 555,
+    "timeYear": 555,
+    "dailyMinutesDown": {}
   }
 ]
