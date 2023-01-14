@@ -47,19 +47,19 @@
     "url": "loudlive.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "loudlive",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 465,
-    "timeDay": 465,
-    "timeWeek": 465,
-    "timeMonth": 465,
-    "timeYear": 465,
+    "status": "up",
+    "uptime": "98.78%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
+    "time": 1885,
+    "timeDay": 1885,
+    "timeWeek": 1885,
+    "timeMonth": 1885,
+    "timeYear": 1885,
     "dailyMinutesDown": {
-      "2023-01-14": 0
+      "2023-01-14": 10
     }
   }
 ]
