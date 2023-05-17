@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "erik-martel",
     "status": "down",
-    "uptime": "94.80%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "94.80%",
+    "uptime": "94.68%",
+    "uptimeDay": "67.38%",
+    "uptimeWeek": "95.34%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "94.68%",
     "time": 479,
     "timeDay": 287,
     "timeWeek": 395,
     "timeMonth": 459,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2023-05-17": 0,
+      "2023-05-17": 470,
       "2023-04-26": 54,
       "2023-04-06": 855,
       "2023-04-05": 1440,
@@ -49,9 +49,9 @@
     "url": "2200brickell.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "2200-brickell",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -60,7 +60,9 @@
     "timeWeek": 565,
     "timeMonth": 823,
     "timeYear": 555,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-17": 0
+    }
   },
   {
     "name": "Loudlive",
