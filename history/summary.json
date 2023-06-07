@@ -4,7 +4,7 @@
     "url": "erikmartel.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "erik-martel",
-    "status": "up",
+    "status": "down",
     "uptime": "94.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 462,
     "timeYear": 482,
     "dailyMinutesDown": {
+      "2023-06-07": 0,
       "2023-05-18": 146,
       "2023-05-17": 863,
       "2023-04-26": 54,
