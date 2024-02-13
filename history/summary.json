@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "erik-martel",
     "status": "up",
-    "uptime": "77.50%",
+    "uptime": "77.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.22%",
-    "uptimeYear": "67.17%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "67.34%",
     "time": 552,
-    "timeDay": 267,
-    "timeWeek": 305,
-    "timeMonth": 480,
-    "timeYear": 617,
+    "timeDay": 272,
+    "timeWeek": 315,
+    "timeMonth": 360,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2024-01-12": 1270,
       "2024-01-11": 1440,
@@ -143,8 +143,7 @@
       "2023-03-27": 1440,
       "2023-03-26": 1004,
       "2023-03-06": 213,
-      "2023-03-05": 454,
-      "2023-02-13": 457
+      "2023-03-05": 454
     }
   },
   {
@@ -158,11 +157,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 800,
-    "timeDay": 402,
-    "timeWeek": 799,
-    "timeMonth": 870,
-    "timeYear": 801,
+    "time": 799,
+    "timeDay": 290,
+    "timeWeek": 802,
+    "timeMonth": 816,
+    "timeYear": 800,
     "dailyMinutesDown": {
       "2023-05-17": 43
     }
@@ -178,10 +177,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 1085,
-    "timeDay": 557,
-    "timeWeek": 630,
-    "timeMonth": 676,
+    "time": 1084,
+    "timeDay": 357,
+    "timeWeek": 548,
+    "timeMonth": 679,
     "timeYear": 1061,
     "dailyMinutesDown": {
       "2023-09-28": 18,
