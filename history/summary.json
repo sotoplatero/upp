@@ -6,9 +6,9 @@
     "slug": "erik-martel",
     "status": "up",
     "uptime": "80.84%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "70.64%",
     "time": 711,
     "timeDay": 15807,
@@ -16,7 +16,6 @@
     "timeMonth": 1962,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2024-05-15": 13,
       "2024-03-22": 20,
       "2024-01-12": 1270,
       "2024-01-11": 1440,
@@ -129,8 +128,7 @@
       "2023-06-09": 219,
       "2023-06-08": 1440,
       "2023-06-07": 1003,
-      "2023-05-18": 146,
-      "2023-05-17": 863
+      "2023-05-18": 146
     }
   },
   {
@@ -149,9 +147,7 @@
     "timeWeek": 563,
     "timeMonth": 487,
     "timeYear": 793,
-    "dailyMinutesDown": {
-      "2023-05-17": 43
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Loudlive",
